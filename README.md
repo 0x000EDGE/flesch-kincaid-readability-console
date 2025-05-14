@@ -28,3 +28,6 @@ Pour lancer l'application :
     node .
     ```
 4. Le programme se lance et vous demande de choisir le fichier texte contenant le texte à analyser.
+
+## Application web
+Une application web est disponible de ce dépot : [flesch-kincaid-readability](https://github.com/0x000EDGE/flesch-kincaid-readability)
